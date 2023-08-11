@@ -1,16 +1,14 @@
-### Hi there 👋
+# ¡Hola! Soy Dylan
 
-<!--
-**dylanpilsner/dylanpilsner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Web Full Stack
 
-Here are some ideas to get you started:
+¡Bienvenido a mi repositorio de GitHub! Para conocer un poco más sobre mí, te invito a visitar mi [portfolio](https://dylanpilsner.com/), donde además podés ver un detalle de mis proyectos, y mi stack tecnológico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacto
+
+¡Siempre estoy interesado en conectar con otros desarrolladores! Podés encontrarme en:
+
+- Email: dylan.pilsner@gmail.com
+- [Linkedin](https://www.linkedin.com/in/dylan-pilsner)
+
+¡Gracias por visitar mi perfil!
