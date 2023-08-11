@@ -8,7 +8,6 @@
 
 ¡Siempre estoy interesado en conectar con otros desarrolladores! Podés encontrarme en:
 
-- Email: dylan.pilsner@gmail.com
-- [Linkedin](https://www.linkedin.com/in/dylan-pilsner)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-pilsner)
 
 ¡Gracias por visitar mi perfil!
